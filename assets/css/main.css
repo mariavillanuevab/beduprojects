@@ -1,5 +1,24 @@
 .head{
-    height: 30px;
-    width: 30px;
+    background-size: cover;
     background-image:url(../images/viaje.jpg);
+    height: 50vh;
+}
+.col-sm{
+text-align: center;
+padding: 4vh;
+}
+.texto-icon{
+    text-align: center;
+}
+.col-6 col-md-4{
+    padding: 5vh;
+}
+.row{
+    padding: 7vh;
+}
+.puebla{
+    background-image:url(../images/viaje.jpg);  
+}
+.container-info{
+    border-color: #009688;
 }
